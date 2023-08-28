@@ -1,3 +1,5 @@
+This version fixes the deprecated call to mods.intllib and replaces it with the newer minetest.get_translator function. Thanks to fluxionary for his help and guidance in fixing this. 
+
 ## Nether Monsters
 
 ### Nether Man
